@@ -38,9 +38,9 @@ Evaluate model accuracy, plot loss curves, and visualize predictions on a sample
 
 ## PROGRAM
 
-### Name: AHALYA S
+### Name: K.S.TAMILARASAN
 
-### Register Number: 212223230006
+### Register Number: 212223100056
 
 ```python
 import pandas as pd
